@@ -2,7 +2,7 @@
 
 <h2 align="center">Urna Eletrônica feita com todos os botões e funções de uma real.</h2>
 
-<h4>Coloquei áudio ao clicar nas téclas e caso queria adicionar outros candidatos e etapas é só modificar o arquivo etapas.js </h4>
+<h4>Coloquei áudio ao clicar nas teclas e caso queira adicionar outros candidatos e etapas é só modificar o arquivo etapas.js </h4>
 
 ---
 
