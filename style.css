@@ -10,6 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
 }
 
 .urna {
